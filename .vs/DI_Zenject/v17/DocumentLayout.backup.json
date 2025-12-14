@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\DI_Zenject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|c:\\users\\user\\source\\repos\\di_zenject\\assets\\scripts\\controllers\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|C:\\Users\\user\\source\\repos\\DI_Zenject\\assets\\scripts\\controllers\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|C:\\Users\\user\\source\\repos\\DI_Zenject\\assets\\scripts\\primitives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\primitives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|C:\\Users\\user\\source\\repos\\DI_Zenject\\assets\\scripts\\controllers\\commands\\selectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\commands\\selectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|C:\\Users\\user\\source\\repos\\DI_Zenject\\assets\\scripts\\controllers\\commands\\igameplaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\commands\\igameplaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|C:\\Users\\user\\source\\repos\\DI_Zenject\\assets\\scripts\\units\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\units\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|C:\\Users\\user\\source\\repos\\DI_Zenject\\assets\\scripts\\units\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\units\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|C:\\Users\\user\\source\\repos\\DI_Zenject\\assets\\scripts\\sceneinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|C:\\Users\\user\\source\\repos\\DI_Zenject\\assets\\scripts\\units\\battlefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\units\\battlefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|C:\\Users\\user\\source\\repos\\DI_Zenject\\assets\\scripts\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|C:\\Users\\user\\source\\repos\\DI_Zenject\\assets\\scripts\\controllers\\battlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3EA11B-F2C5-2B86-09A8-18097DD00AC4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\battlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Controllers\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\UIController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Controllers\\UIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\UIController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:57:01.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Controllers\\InputController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\InputController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Controllers\\InputController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\InputController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:56:43.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Controllers\\Commands\\SelectCommand.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\Commands\\SelectCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Controllers\\Commands\\SelectCommand.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\Commands\\SelectCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:11:58.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SceneInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\SceneInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneInstaller.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\SceneInstaller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneInstaller.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:30:55.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\PlayerController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:35:33.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BattleController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Controllers\\BattleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\BattleController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Controllers\\BattleController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\BattleController.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAUwPMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:34:47.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGameplayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Controllers\\Commands\\IGameplayCommand.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\Commands\\IGameplayCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Controllers\\Commands\\IGameplayCommand.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\Commands\\IGameplayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:33:10.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Battlefield.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Units\\Battlefield.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Units\\Battlefield.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Units\\Battlefield.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Units\\Battlefield.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAUwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:32:39.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Units\\Unit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Units\\Unit.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Units\\Unit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Units\\Unit.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:29:05.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Units\\Cell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Units\\Cell.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Units\\Cell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Units\\Cell.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:26:45.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Primitives.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Primitives.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Primitives.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DI_Zenject\\Assets\\Scripts\\Primitives.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Primitives.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:23:53.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
