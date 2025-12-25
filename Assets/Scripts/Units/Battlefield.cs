@@ -31,8 +31,8 @@ public class Battlefield : MonoBehaviour
                 GameObject cellObj = Instantiate(_cellPrefab, position, Quaternion.identity, _boardParent);
 
                 Cell cell = cellObj.GetComponent<Cell>();
-                bool isBlack = (x + y) % 2 == 1; // Только черные клетки для шашек
-                cell.Initialize(new Vector2Int(x, y), isBlack);
+                bool isBlackCell = (x + y) % 2 == 1; // Переименовано
+                cell.Initialize(new Vector2Int(x, y), isBlackCell);
 
                 _cells[x, y] = cell;
             }
@@ -69,9 +69,34 @@ public class Battlefield : MonoBehaviour
     private void CreateChecker(int x, int y, Team team)
     {
         GameObject prefab = team == Team.White ? _whiteUnitPrefab : _blackUnitPrefab;
-        GameObject unitObj = Instantiate(prefab, Vector3.zero, Quaternion.identity, _boardParent);
+
+        // Получаем клетку
+        Cell targetCell = _cells[x, y];
+
+        // Позиция клетки
+        Vector3 cellPosition = targetCell.transform.position;
+
+        // Шашка должна быть над центром клетки
+        // Если клетка в позиции (x * spacing, 0, y * spacing)
+        // То шашка должна быть в той же X,Z позиции, но с высотой
+        Vector3 unitPosition = new Vector3(
+            cellPosition.x,
+            0.5f,  // Высота над клеткой
+            cellPosition.z
+        );
+
+        Debug.Log($"Creating {team} checker at cell [{x},{y}] " +
+                  $"Cell pos: {cellPosition}, Unit pos: {unitPosition}");
+
+        GameObject unitObj = Instantiate(prefab, unitPosition, Quaternion.identity, _boardParent);
         Unit unit = unitObj.GetComponent<Unit>();
-        unit.Initialize(team, _cells[x, y]);
+
+        // Инициализируем с правильной позицией
+        unit.Initialize(team, targetCell);
+
+        // Принудительно устанавливаем позицию
+        unit.transform.position = unitPosition;
+
         _units.Add(unit);
     }
 

@@ -17,6 +17,11 @@ public class UIController : MonoBehaviour
 
     private void Update()
     {
+        HandleRestartInput();
+    }
+
+    private void HandleRestartInput()
+    {
         if (Input.GetKey(KeyCode.Tab) && !_isRestarting)
         {
             _isRestarting = true;
@@ -34,7 +39,7 @@ public class UIController : MonoBehaviour
                 RestartGame();
             }
         }
-        else if (_isRestarting)
+        else if (_isRestarting && !Input.GetKey(KeyCode.Tab))
         {
             _isRestarting = false;
             _restartHoldTime = 0f;

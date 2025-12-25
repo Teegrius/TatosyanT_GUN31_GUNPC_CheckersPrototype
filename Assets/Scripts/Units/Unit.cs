@@ -32,7 +32,13 @@ public class Unit : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, IP
             _originalColor = _meshRenderer.material.color;
         }
 
-        transform.position = cell.transform.position + Vector3.up * 0.5f;
+        // Устанавливаем позицию точно над клеткой
+        if (cell != null)
+        {
+            Vector3 cellPos = cell.transform.position;
+            transform.position = new Vector3(cellPos.x, 0.5f, cellPos.z);
+        }
+
         name = $"Unit_{team}_{cell.BoardPosition.x}_{cell.BoardPosition.y}";
     }
 
@@ -53,6 +59,7 @@ public class Unit : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, IP
     public void OnPointerClick(PointerEventData eventData)
     {
         Debug.Log($"Unit clicked: {_team} {_pieceType}");
+
         BattleController battleController = FindObjectOfType<BattleController>();
         if (battleController != null)
         {

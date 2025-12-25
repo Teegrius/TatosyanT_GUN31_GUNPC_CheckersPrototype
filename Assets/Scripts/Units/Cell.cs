@@ -45,10 +45,16 @@ public class Cell : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, IP
     public void OnPointerClick(PointerEventData eventData)
     {
         Debug.Log($"Cell clicked at position: {_boardPosition}");
+
+        // »щем BattleController
         BattleController battleController = FindObjectOfType<BattleController>();
         if (battleController != null)
         {
             battleController.OnCellSelected(this);
+        }
+        else
+        {
+            Debug.LogError("BattleController not found!");
         }
     }
 

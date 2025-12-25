@@ -9,14 +9,20 @@ public class InputController : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape) && BattleController.Instance != null)
+        if (Input.GetKeyDown(KeyCode.Escape))
         {
-            BattleController.Instance.CancelSelection();
+            if (BattleController.Instance != null)
+            {
+                BattleController.Instance.CancelSelection();
+            }
         }
 
-        if (Input.GetKeyDown(KeyCode.Space) && BattleController.Instance != null)
+        if (Input.GetKeyDown(KeyCode.Space))
         {
-            BattleController.Instance.ConfirmAction();
+            if (BattleController.Instance != null)
+            {
+                BattleController.Instance.ConfirmAction();
+            }
         }
     }
 }
